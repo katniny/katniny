@@ -1,16 +1,23 @@
-### Hi there 👋
+### 🚀 Hello, I'm Katty! Here's some information about me and my interests! 
+```yaml 
+name: Katty
+founded: TransSocial Group
 
-<!--
-**katniny/katniny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+interests:
+[
+  "Web Development",
+  "Game Development",
+  "UI/UX",
+  "DevOps",
+  "Music",
+]
+background:
+[
+  "TransSocial - Founder",
+  "Terrafusion - Volunteer",
+]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: ["React Native", "Python"]
+2023_goals: ["Release TransSocial, TransMusic, at least 1 game."]
+hobbies: ["Gaming", "Coding"]
+```
