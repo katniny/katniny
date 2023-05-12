@@ -14,7 +14,7 @@ interests:
 background:
 [
   "TransSocial - Founder",
-  "Terrafusion - Volunteer",
+  "Terrafusion - Sound Designer",
 ]
 
 currently_learning: ["React Native", "Python"]
