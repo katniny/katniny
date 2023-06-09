@@ -17,7 +17,7 @@ background:
   "Terrafusion - Sound Designer",
 ]
 
-currently_learning: ["React Native", "Python"]
-2023_goals: ["Release TransSocial, TransMusic, at least 1 game."]
+currently_learning: ["React Native", "Python", "Lua"]
+2023_goals: ["Release TransSocial v1.2.0, TransMusic, at least 1 game."]
 hobbies: ["Gaming", "Coding"]
 ```
