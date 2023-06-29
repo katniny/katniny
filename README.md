@@ -15,6 +15,7 @@ background:
 [
   "TransSocial - Founder",
   "Terrafusion - Sound Designer",
+  "Yiorgos Guide to the Eldritch Hunt - Web Developer",
 ]
 
 currently_learning: ["React Native", "Python", "Lua"]
