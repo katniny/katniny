@@ -1,3 +1,5 @@
+<link href="https://katniny.com/" rel="me">
+
 ### 🚀 Hello, I'm Katty! Here's some information about me and my interests! 
 ```yaml 
 name: Katty
