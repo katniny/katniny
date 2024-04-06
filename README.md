@@ -21,6 +21,6 @@ background:
 ]
 
 currently_learning: ["React Native", "Python", "Lua"]
-2023_goals: ["Release TransSocial v1.2.0, TransMusic, at least 1 game."]
+2024_goals: ["Release TransSocial and at least 1 game."]
 hobbies: ["Gaming", "Coding"]
 ```
