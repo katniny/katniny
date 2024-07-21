@@ -17,10 +17,9 @@ background:
 [
   "TransSocial - Founder",
   "Terrafusion - Sound Designer",
-  "Yiorgos Guide to the Eldritch Hunt - Web Developer",
 ]
 
 currently_learning: ["React Native", "Python", "Lua"]
-2024_goals: ["Release TransSocial and at least 1 game."]
+2024_goals: ["Release at least 1 game."] (TransSocial released 🎉)
 hobbies: ["Gaming", "Coding"]
 ```
