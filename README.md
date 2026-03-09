@@ -5,7 +5,7 @@
   Developer of [Auride](https://github.com/katniny/Auride), [Kairo](https://github.com/katninystudios/kairo), and more. Founder of Katniny Studios!
 </div>
 
-Hi, I'm Katty! I'm a very ambitious 17 year old developer, who enjoys programming in JavaScript and C/C++, but I've dabbled into other languages as well.
+Hi, I'm Katty! I'm a very ambitious 18 year old developer, who enjoys programming in JavaScript and C/C++, but I've dabbled into other languages as well.
 
 Everything I make is built around **privacy** because I believe in the right to privacy.
 
