@@ -11,7 +11,7 @@ Everything I make is built around **privacy** because I believe in the right to 
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,css,html,c++,cmake,nodejs,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,css,html,cpp,cmake,nodejs,vscode)](https://skillicons.dev)
 
   (I mainly work with HTML, CSS, JS (and tools associated), and sometimes C, C++, and Python)
 
