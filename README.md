@@ -19,7 +19,11 @@ Everything I make is built around **privacy** because I believe in the right to 
 
 ## Projects:
 - I work on my social media site named [Auride](https://github.com/katniny/Auride), a free, open-source social media platform, designed to be a safe place for everyone.
-- I'm working on a browser named [Kairo](https://github.com/katninystudios/kairo), a fast, open-source, privacy-focused, no-BS web browser.
+  - Frontend and backend
+  - HTML, CSS, JavaScript
+- I'm working on a browser named [KatOS](https://github.com/katninystudios/katos), a fast, open-source, privacy-focused, operating system.
+  - Systems Technology
+  - Bash, C++
 
 See other projects under my [personal account](https://github.com/katniny?tab=repositories) and under the [Katniny Studios organization](https://github.com/orgs/katninystudios/repositories)!
 
